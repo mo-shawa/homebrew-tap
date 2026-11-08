@@ -1,6 +1,6 @@
 cask "cmd-space-launcher" do
-  version "1.0.1"
-  sha256 "336501be4aab00c306916e4a84d115ce8499b412af9151d00f0df5f849ed19da"
+  version "1.0.2"
+  sha256 "37541461eea87b95eb4ca5a7af7cc20902feed53b6bfd86d1a1fafec94b97c9c"
 
   url "https://github.com/mo-shawa/cmd-space-launcher/releases/download/v#{version}/cmd-space-launcher-#{version}.zip"
   name "Cmd-Space Launcher"
